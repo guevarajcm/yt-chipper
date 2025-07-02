@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8Gnz2MMdsA=",
+  "success": true,
+  "projectFilePath": "/home/guevara/Desktop/guevara/developing/yt-chipper/yt-chipper.csproj",
+  "expectedPackageFiles": [
+    "/home/guevara/.nuget/packages/anglesharp/1.2.0/anglesharp.1.2.0.nupkg.sha512",
+    "/home/guevara/.nuget/packages/microsoft.net.illink.tasks/9.0.5/microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
+    "/home/guevara/.nuget/packages/youtubeexplode/6.5.4/youtubeexplode.6.5.4.nupkg.sha512",
+    "/home/guevara/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.5/microsoft.netcore.app.runtime.linux-x64.9.0.5.nupkg.sha512",
+    "/home/guevara/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512",
+    "/home/guevara/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.5/microsoft.aspnetcore.app.runtime.linux-x64.9.0.5.nupkg.sha512",
+    "/home/guevara/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.5/microsoft.netcore.app.host.linux-x64.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

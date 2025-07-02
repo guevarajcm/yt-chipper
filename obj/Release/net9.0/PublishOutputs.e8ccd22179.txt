@@ -1,0 +1,7 @@
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.dll
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.deps.json
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.runtimeconfig.json
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.pdb
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/AngleSharp.dll
+/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/YoutubeExplode.dll

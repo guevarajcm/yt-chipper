@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>yt-chipper</id>
+    <version>1.0.0</version>
+    <authors>yt-chipper</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/obj/DotnetToolSettings.xml" target="tools/net9.0/any/DotnetToolSettings.xml" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.dll" target="tools/net9.0/any/yt-chipper.dll" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.deps.json" target="tools/net9.0/any/yt-chipper.deps.json" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.runtimeconfig.json" target="tools/net9.0/any/yt-chipper.runtimeconfig.json" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/yt-chipper.pdb" target="tools/net9.0/any/yt-chipper.pdb" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/AngleSharp.dll" target="tools/net9.0/any/AngleSharp.dll" />
+    <file src="/home/guevara/Desktop/guevara/developing/yt-chipper/bin/Release/net9.0/publish/YoutubeExplode.dll" target="tools/net9.0/any/YoutubeExplode.dll" />
+  </files>
+</package>
